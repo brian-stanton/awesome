@@ -3,3 +3,4 @@
 [fzf](https://github.com/junegunn/fzf) - fuzzy finder\
 [jq](https://github.com/jqlang/jq) - JSON processor\
 [tig](https://jonas.github.io/tig/) - git TUI\
+[bat](https://github.com/sharkdp/bat) - pretty `cat` output with features
